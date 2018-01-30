@@ -1,0 +1,14 @@
+Vicente mata velasco
+
+¿Qué es un sistema operativo?
+Dado su nombre es un sistema encargado de administrar todo lo que ocurre en una computadora, es un software encargado de hacer funcionar la misma y sin este la pc no tendría ninguna función 
+¿Qué sistemas operativos conoce?
+Ububtu, Linux mint, parrot, cali Linux, Windows 7, Windows 8, winsows xp, Windows 10, Android 6 lolipop, ios, mac os, Windows pone, Windows server
+¿Qué diferencias entre estos sistemas operativos identifica?
+Cada sistema operativo tiene su uso en especial unos se enfocan a las computadora, otros a dispositivos móviles mientras que otros a servidores; depende cada uno hacia a que va enfocado.
+¿Qué diferencia hay entre memoria lógica y física?
+La memoria física es el tipo de memoria que solo se almacena mientras esta en uso el dispositivo y al momento de apagarlo se pierde mientras que la memoria lógica es la que se almacena en su disco local y esta no es borrada hasta que el usuario lo desee.
+¿Qué tipos de sistemas de archivos conoce?
+Fat 32, NTFS
+¿Qué es criptografía?
+Es una técnica de seguridad 
