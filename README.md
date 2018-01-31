@@ -5,15 +5,15 @@ Temario
 Contenidos de la materia
 
 **Unidad 1 Introducción a los sistemas operativos**
-1.1 Definición y concepto. 
-1.2 Funciones y características.
- 1.3 Evolución histórica. 
-1.4 Clasificación. 
-1.5 Estructura (niveles o estratos de diseño). 
-1.6 Núcleo. 
-     1.6.1 Interrupciones (FLIH). 
-     1.6.2 Despachador (Scheduler). 
-     1.6.3 Primitivas de comunicación (IPC).
+* 1.1 Definición y concepto. 
+* 1.2 Funciones y características.
+* 1.3 Evolución histórica. 
+* 1.4 Clasificación. 
+* 1.5 Estructura (niveles o estratos de diseño). 
+* 1.6 Núcleo. 
+     * 1.6.1 Interrupciones (FLIH). 
+     * 1.6.2 Despachador (Scheduler). 
+     * 1.6.3 Primitivas de comunicación (IPC).
 
 **Unidad 2 Administración de procesos y del procesador**
 2.1 Concepto de proceso. 
