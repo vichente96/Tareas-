@@ -97,3 +97,11 @@ La memoria física es el tipo de memoria que solo se almacena mientras esta en u
 Fat 32, NTFS
 ## ¿Qué es criptografía?
 Es una técnica de seguridad 
+
+## GLOSARIO
+________________________________________________________________________________________________________________________
+* RDIM Registro de direccion de memoria, especifica la direccion de moemoria de la siguiente
+lectura o escritura.
+
+* RDAM Registro de datos de memoria que contiene los datos que se van escribir en la memoria o que recibe los datos
+leidos en la memoria
