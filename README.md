@@ -105,3 +105,7 @@ lectura o escritura.
 
 * RDAM Registro de datos de memoria que contiene los datos que se van escribir en la memoria o que recibe los datos
 leidos en la memoria
+__________________________________________________________________________________________________________________
+
+## Resumen 1 Antecedentes de sistemas operaivos 
+*Evolucion de los sistemas operativos desde su inicio hasta los actuales y los diferentes tipos que existen.
