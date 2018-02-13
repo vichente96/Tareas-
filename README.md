@@ -108,4 +108,4 @@ leidos en la memoria
 __________________________________________________________________________________________________________________
 
 ## Resumen 1 Antecedentes de sistemas operaivos 
-*Evolucion de los sistemas operativos desde su inicio hasta los actuales y los diferentes tipos que existen.
+* Evolucion de los sistemas operativos desde su inicio hasta los actuales y los diferentes tipos que existen.
